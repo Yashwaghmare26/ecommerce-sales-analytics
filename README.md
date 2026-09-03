@@ -157,3 +157,36 @@ ecommerce-sales-analytics/
 │   └── dashboard.png
 │
 └── README.md
+
+---
+
+## 💡 Business Insights
+
+Business insights will be added after completing the SQL analysis, Python EDA, and Power BI dashboard.
+
+---
+
+## 🚀 Project Workflow
+
+```text
+Data Collection
+      ↓
+Data Validation
+      ↓
+SQL Analysis
+      ↓
+Python EDA
+      ↓
+Business Insights
+      ↓
+Power BI Dashboard
+      ↓
+Final Recommendations
+
+---
+
+## 👨‍💻 Author
+
+**Yash Waghmare**
+
+Data Analytics | SQL | Python | Power BI
